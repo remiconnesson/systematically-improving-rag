@@ -7,3 +7,4 @@ pydantic
 pandas
 python-dotenv
 tantivy
+cohere
