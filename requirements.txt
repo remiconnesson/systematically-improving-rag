@@ -1,0 +1,8 @@
+asyncio
+typing
+instructor
+lancedb
+openai
+pydantic
+pandas
+python-dotenv
