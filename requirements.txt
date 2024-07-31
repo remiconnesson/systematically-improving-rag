@@ -6,3 +6,4 @@ openai
 pydantic
 pandas
 python-dotenv
+tantivy
